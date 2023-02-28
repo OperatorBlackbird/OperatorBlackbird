@@ -15,7 +15,7 @@ I'm a proud Norwegian and DCS player, I have a few years of programming experien
 -->
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@OperBlackbird)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=OperBlackbird)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
